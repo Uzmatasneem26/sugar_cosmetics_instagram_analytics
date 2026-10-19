@@ -2,7 +2,7 @@
 
 An interactive, multipage **Streamlit** dashboard that analyses Sugar Cosmetics' Instagram performance and turns the findings into data-driven social media recommendations.
 
-🔗 **Live app:** _add your Streamlit Cloud link here_
+🔗 **Live app:** https://sugarcosmeticsinstagramanalytics-gfvr5ld3rvkaczysugc76f.streamlit.app/
 
 ---
 
